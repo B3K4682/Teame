@@ -15,7 +15,7 @@
   ],
   "author": "Teamers",
   "license": "MIT",
-  "homepage": "localhost",
+  "homepage": "https://teame.vercel.app",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
